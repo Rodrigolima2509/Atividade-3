@@ -1,1 +1,1 @@
-# Atividade-3
+Lista de exercícios 3 - Formação Fullstack MaispraTI Este projeto é a entrega da lista de exercícios 03 do curso Dev. Full Stack Jr. (+PraTi & Codifica), utilizando HTML semântico e CSS e suas funcionalidades básicas.
